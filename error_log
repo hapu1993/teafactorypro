@@ -1,0 +1,590 @@
+[16-Feb-2018 03:36:33 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/connection.php on line 2
+[16-Feb-2018 03:36:33 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/index.php on line 212
+[16-Feb-2018 03:36:43 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/connection.php on line 2
+[16-Feb-2018 03:36:43 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/index.php on line 212
+[16-Feb-2018 03:36:43 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/connection.php on line 2
+[16-Feb-2018 03:36:43 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/index.php on line 212
+[16-Feb-2018 03:36:50 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/connection.php on line 2
+[16-Feb-2018 03:36:50 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/index.php on line 212
+[16-Feb-2018 03:37:05 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/connection.php on line 2
+[16-Feb-2018 03:37:05 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/index.php on line 212
+[16-Feb-2018 03:37:05 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/connection.php on line 2
+[16-Feb-2018 03:37:05 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/index.php on line 212
+[16-Feb-2018 03:37:40 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/connection.php on line 2
+[16-Feb-2018 03:37:40 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/index.php on line 212
+[16-Feb-2018 03:37:59 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/connection.php on line 2
+[16-Feb-2018 03:37:59 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/index.php on line 212
+[16-Feb-2018 03:38:00 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/connection.php on line 2
+[16-Feb-2018 03:38:00 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/index.php on line 212
+[16-Feb-2018 03:40:41 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/connection.php on line 2
+[16-Feb-2018 03:40:41 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/index.php on line 212
+[16-Feb-2018 03:43:49 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/connection.php on line 2
+[16-Feb-2018 03:43:49 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/index.php on line 212
+[16-Feb-2018 03:43:50 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/connection.php on line 2
+[16-Feb-2018 03:43:50 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/index.php on line 212
+[16-Feb-2018 03:44:36 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/connection.php on line 2
+[16-Feb-2018 03:44:36 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/index.php on line 212
+[16-Feb-2018 04:10:31 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/connection.php on line 2
+[16-Feb-2018 04:10:31 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/index.php on line 212
+[16-Feb-2018 04:10:43 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/connection.php on line 2
+[16-Feb-2018 04:10:43 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/index.php on line 212
+[16-Feb-2018 04:10:43 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/connection.php on line 2
+[16-Feb-2018 04:10:43 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/index.php on line 212
+[16-Feb-2018 04:11:54 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/connection.php on line 2
+[16-Feb-2018 04:11:54 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/index.php on line 212
+[16-Feb-2018 04:11:55 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/connection.php on line 2
+[16-Feb-2018 04:11:55 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/index.php on line 212
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:45 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[16-Feb-2018 05:23:46 America/New_York] PHP Notice:  Undefined variable: customer_address in /home/isletmqp/public_html/pdffinal.php on line 166
+[17-Feb-2018 22:32:02 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/backend-search.php on line 6
+[17-Feb-2018 22:32:02 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/backend-search.php on line 8
+[17-Feb-2018 22:32:02 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/backend-search.php on line 6
+[17-Feb-2018 22:32:02 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/backend-search.php on line 8
+[17-Feb-2018 22:32:11 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/backend-search.php on line 6
+[17-Feb-2018 22:32:11 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/backend-search.php on line 8
+[17-Feb-2018 22:32:12 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/backend-search.php on line 6
+[17-Feb-2018 22:32:12 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/backend-search.php on line 8
+[17-Feb-2018 22:32:13 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/backend-search.php on line 6
+[17-Feb-2018 22:32:13 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/backend-search.php on line 8
+[17-Feb-2018 22:32:13 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/backend-search.php on line 6
+[17-Feb-2018 22:32:13 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/backend-search.php on line 8
+[17-Feb-2018 22:32:14 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/backend-search.php on line 6
+[17-Feb-2018 22:32:14 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/backend-search.php on line 8
+[17-Feb-2018 22:32:14 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/backend-search.php on line 6
+[17-Feb-2018 22:32:14 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/backend-search.php on line 8
+[17-Feb-2018 22:32:15 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/backend-search.php on line 6
+[17-Feb-2018 22:32:15 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/backend-search.php on line 8
+[17-Feb-2018 22:32:15 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/isletmqp/public_html/backend-search.php on line 6
+[17-Feb-2018 22:32:15 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/backend-search.php on line 8
+[19-Mar-2018 12:01:45 America/New_York] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/isletmqp/public_html/printall1.php on line 401
+[19-Mar-2018 12:01:51 America/New_York] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/isletmqp/public_html/printall1.php on line 401
+[19-Mar-2018 12:03:23 America/New_York] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/isletmqp/public_html/printall1.php on line 401
+[19-Mar-2018 12:04:02 America/New_York] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/isletmqp/public_html/printall1.php on line 401
+[19-Mar-2018 12:05:59 America/New_York] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/isletmqp/public_html/printall1.php on line 401
+[19-Mar-2018 12:06:31 America/New_York] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/isletmqp/public_html/printall1.php on line 401
+[19-Mar-2018 23:03:01 America/New_York] PHP Parse error:  syntax error, unexpected 'rest_amount' (T_STRING) in /home/isletmqp/public_html/summery.php on line 4
+[19-Mar-2018 23:03:39 America/New_York] PHP Parse error:  syntax error, unexpected 'rest_amount' (T_STRING) in /home/isletmqp/public_html/summery.php on line 4
+[19-Mar-2018 23:04:24 America/New_York] PHP Parse error:  syntax error, unexpected 'rest_amount' (T_STRING) in /home/isletmqp/public_html/summery.php on line 4
+[19-Mar-2018 23:22:43 America/New_York] PHP Parse error:  syntax error, unexpected 'order' (T_STRING) in /home/isletmqp/public_html/summery.php on line 4
+[20-Mar-2018 00:05:49 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/isletmqp/public_html/summery.php on line 11
+[20-Mar-2018 00:06:07 America/New_York] PHP Notice:  Undefined variable: sum in /home/isletmqp/public_html/summery.php on line 8
+[20-Mar-2018 00:09:35 America/New_York] PHP Notice:  Undefined variable: sum in /home/isletmqp/public_html/summery.php on line 8
+[20-Mar-2018 00:24:40 America/New_York] PHP Notice:  Undefined variable: sum in /home/isletmqp/public_html/summery.php on line 8
+[20-Mar-2018 00:24:40 America/New_York] PHP Notice:  Undefined variable: sum1 in /home/isletmqp/public_html/summery.php on line 23
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined variable: sum in /home/isletmqp/public_html/summery.php on line 8
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined variable: sum1 in /home/isletmqp/public_html/summery.php on line 23
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined variable: sum2 in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:43:17 America/New_York] PHP Notice:  Undefined index: rest_amount in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:44:20 America/New_York] PHP Notice:  Undefined variable: sum in /home/isletmqp/public_html/summery.php on line 8
+[20-Mar-2018 00:44:20 America/New_York] PHP Notice:  Undefined variable: sum1 in /home/isletmqp/public_html/summery.php on line 23
+[20-Mar-2018 00:44:20 America/New_York] PHP Notice:  Undefined variable: sum2 in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:49:50 America/New_York] PHP Notice:  Undefined variable: sum in /home/isletmqp/public_html/summery.php on line 8
+[20-Mar-2018 00:49:50 America/New_York] PHP Notice:  Undefined variable: sum1 in /home/isletmqp/public_html/summery.php on line 23
+[20-Mar-2018 00:49:50 America/New_York] PHP Notice:  Undefined variable: sum2 in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:52:33 America/New_York] PHP Notice:  Undefined variable: sum in /home/isletmqp/public_html/summery.php on line 8
+[20-Mar-2018 00:52:33 America/New_York] PHP Notice:  Undefined variable: sum1 in /home/isletmqp/public_html/summery.php on line 23
+[20-Mar-2018 00:52:33 America/New_York] PHP Notice:  Undefined variable: sum2 in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:53:45 America/New_York] PHP Notice:  Undefined variable: sum in /home/isletmqp/public_html/summery.php on line 8
+[20-Mar-2018 00:53:45 America/New_York] PHP Notice:  Undefined variable: sum1 in /home/isletmqp/public_html/summery.php on line 23
+[20-Mar-2018 00:53:45 America/New_York] PHP Notice:  Undefined variable: sum2 in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:54:20 America/New_York] PHP Notice:  Undefined variable: sum in /home/isletmqp/public_html/summery.php on line 8
+[20-Mar-2018 00:54:20 America/New_York] PHP Notice:  Undefined variable: sum1 in /home/isletmqp/public_html/summery.php on line 23
+[20-Mar-2018 00:54:20 America/New_York] PHP Notice:  Undefined variable: sum2 in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 00:58:34 America/New_York] PHP Notice:  Undefined variable: sum in /home/isletmqp/public_html/summery.php on line 8
+[20-Mar-2018 00:58:34 America/New_York] PHP Notice:  Undefined variable: sum1 in /home/isletmqp/public_html/summery.php on line 23
+[20-Mar-2018 00:58:34 America/New_York] PHP Notice:  Undefined variable: sum2 in /home/isletmqp/public_html/summery.php on line 37
+[20-Mar-2018 05:47:43 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on 'server246.web-hosting.com' (111 &quot;Connection refused&quot;) in /home/isletmqp/public_html/connection.php on line 2
+[20-Mar-2018 05:47:43 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/connection.php on line 3
+[20-Mar-2018 05:47:43 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/isletmqp/public_html/index.php on line 212

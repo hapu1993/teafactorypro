@@ -1,0 +1,17 @@
+database tables-
+
+	*customer
+		-customer_id
+		-customer_name
+		-customer_address
+		-customer_total_price
+		-customer_total_weight
+		-customer_total_advance
+		-customer_outstanding
+		-customer_transport_fee
+		-customer_teapowder
+		-customer_fertilizer
+		-customer_remaining_balance
+
+
+	*
